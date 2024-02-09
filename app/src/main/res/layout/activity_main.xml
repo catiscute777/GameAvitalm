@@ -116,14 +116,14 @@
         android:id="@+id/b1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="check"
         android:onClick="check1"
+        android:text="check"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.132"
+        app:layout_constraintHorizontal_bias="0.13"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/ed1"
-        app:layout_constraintVertical_bias="0.444" />
+        app:layout_constraintVertical_bias="0.466" />
 
     <Button
         android:id="@+id/btn"
